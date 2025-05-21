@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luisru42
-- 👀 I’m interested in programming and everything about technology
+- 👀 I’m interested in programming and everything about technology.
 - 🌱 I’m currently searching for a job that lets me evolve in my field.
 - 💞️ I’m looking to collaborate on any project that needs full-stack knowledge.
 - 📫 How to reach me - - - gonzalez.engineer42@gmail.com
