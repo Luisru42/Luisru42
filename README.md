@@ -56,7 +56,7 @@ Iteration: Continuously improving and optimizing applications based on feedback.
 
 🤝 Let's Connect!
 
-LinkedIn: https://www.linkedin.com/in/luis-gonzalez-369373358/
+LinkedIn: (https://www.linkedin.com/in/luis-gonzalez-pagan-369373358/)
 
 Portfolio: https://luisru42.github.io/Web-Development/
 
